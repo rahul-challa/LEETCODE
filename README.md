@@ -27,9 +27,9 @@ This repository contains my daily solutions to LeetCode problems. Each solution 
   ```bash
   git clone https://github.com/rahul-challa/LEETCODE.git
 
-## 📈 Progress  
-Total problems solved: **X**  
-(Updated regularly 🚀)  
+## 📊 LeetCode Stats  
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Rahul_Challa?theme=dark&font=Montserrat)
 
 ## 🏆 LeetCode Profile  
 Check out my progress on [LeetCode](https://leetcode.com/u/Rahul_Challa/)  
