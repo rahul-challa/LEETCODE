@@ -5,6 +5,7 @@
 ![Commit Badge](https://img.shields.io/github/last-commit/your-username/your-repo-name)  
 
 ## 📌 Overview  
+
 This repository contains my daily solutions to LeetCode problems. Each solution is saved based on the LeetCode problem number for easy navigation. The goal is to improve problem-solving skills and track progress over time.  
 
 ## 📂 Repository Structure  
@@ -14,12 +15,22 @@ This repository contains my daily solutions to LeetCode problems. Each solution 
 - Some solutions include an additional `README.md` explaining the approach and time complexity.  
 
 ## 🚀 Goals  
+
 ✅ Solve LeetCode problems consistently  
 ✅ Improve algorithmic thinking  
 ✅ Enhance coding efficiency and speed  
 ✅ Prepare for coding interviews  
 
-## 📌 How to Use  
+## 📌 How to Use 
+
 - Clone the repository:  
   ```bash
   git clone https://github.com/rahul-challa/LEETCODE.git
+
+## 📈 Progress  
+Total problems solved: **X**  
+(Updated regularly 🚀)  
+
+## 🏆 LeetCode Profile  
+Check out my progress on [LeetCode](https://leetcode.com/u/Rahul_Challa/)  
+
