@@ -2,7 +2,7 @@
 
 ![LeetCode Badge](https://img.shields.io/badge/LeetCode-Daily%20Practice-orange)  
 ![Language Badge](https://img.shields.io/badge/Language-Python%2FJava%2FC%2B%2B-blue)  
-![Commit Badge](https://img.shields.io/github/last-commit/your-username/your-repo-name)  
+![Commit Badge](https://img.shields.io/github/last-commit/rahul-challa/LEETCODE)  
 
 ## 📌 Overview  
 
