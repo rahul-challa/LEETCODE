@@ -22,6 +22,4 @@ This repository contains my daily solutions to LeetCode problems. Each solution 
 ## 📌 How to Use  
 - Clone the repository:  
   ```bash
-  git clone https://github.com/your-username/your-repo-name.git
-
-Replace `your-username`, `your-repo-name`, and `your-profile-link` with your actual GitHub and LeetCode details. Let me know if you want any changes! 🚀
+  git clone https://github.com/rahul-challa/LEETCODE.git
