@@ -34,10 +34,6 @@ This repository contains daily solutions to LeetCode problems, organized by prob
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Rahul_Challa)
 
-## LeetCode Contest Rating
-
-![LeetCode Contest Rating](https://leetcard.jacoblin.cool/Rahul_Challa?chart=contest)
-
 ## LeetCode Profile
 
 View my LeetCode profile and progress: [LeetCode - Rahul_Challa](https://leetcode.com/u/Rahul_Challa/)
