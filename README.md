@@ -32,7 +32,7 @@ This repository contains daily solutions to LeetCode problems, organized by prob
 
 ## LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Rahul_Challa?ext=contest&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Rahul_Challa)
 
 ## LeetCode Profile
 
