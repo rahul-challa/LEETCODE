@@ -1,12 +1,11 @@
 # LeetCode Daily Solutions
 
-![LeetCode Badge](https://leetcard.jacoblin.cool/Rahul_Challa?ext=contest&ext=activity)
 ![Language Badge](https://img.shields.io/badge/Language-Python%2FJava%2FC%2B%2B-blue)
 ![Commit Badge](https://img.shields.io/github/last-commit/rahul-challa/LEETCODE)
 
 ## Overview
 
-This repository contains daily solutions to LeetCode problems, organized by problem number for easy navigation. The primary goal is to improve problem-solving skills, document solution approaches, and track progress over time. Solutions are implemented in multiple programming languages, and some include detailed explanations of the approach and time complexity.
+This repository contains daily solutions to LeetCode problems, organized by problem number for easy navigation. The primary goal is to enhance problem-solving skills, document effective solution approaches, and monitor progress over time. Solutions are implemented in multiple programming languages, and some include detailed explanations of the approach and time complexity.
 
 ## Repository Structure
 
@@ -33,7 +32,7 @@ This repository contains daily solutions to LeetCode problems, organized by prob
 
 ## LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Rahul_Challa?ext=contest&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Rahul_Challa)
 
 ## LeetCode Profile
 
